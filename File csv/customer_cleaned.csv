@@ -1,0 +1,197 @@
+Customer_ID,Email,Address,City,Country,Date Of Birth,Membership Level,Name,Phone
+1,johndoe@example.com,123 Main St,New York,USA,2023-05-10,Gold,John Doe,912345678.0
+2,asmith@example.com,456 Oak St,Los Angeles,USA,2023-02-15,Silver,Alice Smith,945678901.0
+3,mjohnson@example.com,789 Elm St,Chicago,USA,2023-11-20,Bronze,Michael Johnson,978901234.0
+4,swilliams@example.com,101 Pine St,San Francisco,USA,2023-08-25,Platinum,Sarah Williams,910111213.0
+5,dbrown@example.com,202 Cedar St,Miami,USA,2023-04-30,Gold,David Brown,920221222.0
+6,ejones@example.com,303 Maple St,Seattle,USA,2023-07-05,Silver,Emily Jones,930331332.0
+7,rmiller@example.com,404 Walnut St,Boston,USA,2023-12-15,Bronze,Robert Miller,940441442.0
+8,edavis@example.com,505 Birch St,Dallas,USA,2023-09-20,Platinum,Emma Davis,950551552.0
+9,wanderson@example.com,606 Pineapple St,Orlando,USA,2023-01-05,Gold,William Anderson,960661662.0
+10,sthomas@example.com,707 Banana St,Houston,USA,2023-03-10,Silver,Sophia Thomas,970771772.0
+11,jwhite@example.com,808 Cherry St,Atlanta,USA,2023-06-15,Bronze,James White,980881882.0
+12,oharris@example.com,909 Lemon St,Phoenix,USA,2023-09-20,Platinum,Olivia Harris,990991992.0
+13,lmartin@example.com,1010 Lime St,Philadelphia,USA,2023-12-25,Gold,Logan Martin,910101111.0
+14,alee@example.com,1111 Grape St,Denver,USA,2023-08-30,Silver,Amelia Lee,911111211.0
+15,mwilson@example.com,1212 Peach St,Portland,USA,2023-05-05,Bronze,Mason Wilson,912121311.0
+16,cmoore@example.com,1313 Orange St,San Diego,USA,2023-02-10,Platinum,Charlotte Moore,913131411.0
+17,eclark@example.com,1414 Plum St,San Antonio,USA,2023-07-15,Gold,Ethan Clark,914141511.0
+18,alewis@example.com,1515 Cherry St,Las Vegas,USA,2023-10-20,Silver,Ava Lewis,915151611.0
+19,nyoung@example.com,1616 Berry St,Minneapolis,USA,2023-03-15,Bronze,Noah Young,916161711.0
+20,ihall@example.com,1717 Apple St,Detroit,USA,2023-11-10,Platinum,Isabella Hall,917171811.0
+21,egarcia@example.com,1818 Walnut St,Charlotte,USA,2023-04-15,Gold,Elijah Garcia,918181911.0
+22,smartinez@example.com,1919 Oak St,San Francisco,USA,2023-10-30,Silver,Sofia Martinez,919192022.0
+23,chernandez@example.com,2020 Elm St,Los Angeles,USA,2023-07-20,Bronze,Carter Hernandez,920202122.0
+24,syoung@example.com,2121 Pine St,Miami,USA,2023-12-05,Platinum,Scarlett Young,921212222.0
+25,lking@example.com,2222 Maple St,Denver,USA,2023-09-10,Gold,Lucas King,922222322.0
+26,cscott@example.com,2323 Cedar St,Seattle,USA,2023-02-25,Silver,Chloe Scott,923232422.0
+27,mlopez@example.com,2424 Walnut St,Portland,USA,2023-06-20,Bronze,Mason Lopez,924242522.0
+28,ahill@example.com,2525 Oak St,Dallas,USA,2023-03-15,Platinum,Amelia Hill,925252622.0
+29,agreen@example.com,2626 Elm St,Chicago,USA,2023-11-10,Gold,Aiden Green,926262722.0
+30,hadams@example.com,2727 Pine St,Houston,USA,2023-08-20,Silver,Harper Adams,927272822.0
+31,ebaker@example.com,2828 Maple St,New York,USA,2023-05-25,Bronze,Ethan Baker,928282923.0
+32,egonzalez@example.com,2929 Cedar St,Boston,USA,2023-12-10,Platinum,Emily Gonzalez,929293023.0
+33,onelson@example.com,3030 Walnut St,Phoenix,USA,2023-09-05,Gold,Oliver Nelson,930303123.0
+34,ecarter@example.com,3131 Oak St,Atlanta,USA,2023-04-30,Silver,Ella Carter,931313223.0
+35,aperez@example.com,3232 Elm St,San Diego,USA,2023-11-15,Bronze,Avery Perez,932323323.0
+36,lroberts@example.com,3333 Pine St,Philadelphia,USA,2023-08-10,Platinum,Liam Roberts,933333423.0
+37,ghall@example.com,3434 Maple St,Detroit,USA,2023-03-25,Gold,Grace Hall,934343523.0
+38,mmitchell@example.com,3535 Cedar St,Orlando,USA,2023-02-20,Silver,Mia Mitchell,935353623.0
+39,nhernandez@example.com,3636 Walnut St,Las Vegas,USA,2023-07-05,Bronze,Noah Hernandez,936363723.0
+40,aturner@example.com,3737 Oak St,San Antonio,USA,2023-12-30,Platinum,Alexander Turner,937373823.0
+41,ephillips@example.com,3838 Elm St,San Francisco,USA,2023-05-15,Gold,Evelyn Phillips,938383924.0
+42,areed@example.com,3939 Pine St,Denver,USA,2023-10-20,Silver,Aria Reed,939394024.0
+43,lcook@example.com,4040 Maple St,Miami,USA,2023-03-05,Bronze,Logan Cook,940404124.0
+44,lbell@example.com,4141 Cedar St,Seattle,USA,2023-08-10,Platinum,Luna Bell,941414224.0
+45,mward@example.com,4242 Walnut St,Portland,USA,2023-01-25,Gold,Mason Ward,942424324.0
+46,swatson@example.com,4343 Oak St,Dallas,USA,2023-06-30,Silver,Scarlett Watson,943434424.0
+47,awoods@example.com,4444 Elm St,Chicago,USA,2023-09-15,Bronze,Aiden Woods,944444524.0
+48,zbrooks@example.com,4545 Pine St,Houston,USA,2023-12-20,Platinum,Zoe Brooks,945454624.0
+49,mcollins@example.com,4646 Maple St,New York,USA,2023-07-05,Gold,Mia Collins,946464724.0
+50,egriffin@example.com,4747 Cedar St,Boston,USA,2023-04-10,Silver,Ethan Griffin,947474824.0
+51,hcruz@example.com,4848 Oak St,Phoenix,USA,2023-02-10,Gold,Harper Cruz,948484925.0
+52,ahughes@example.com,4949 Elm St,Atlanta,USA,2023-05-25,Silver,Avery Hughes,949495025.0
+53,jflores@example.com,5050 Pine St,Philadelphia,USA,2023-10-30,Bronze,James Flores,950505125.0
+54,mwashington@example.com,5151 Maple St,Detroit,USA,2023-03-15,Platinum,Mia Washington,951515225.0
+56,ssimmons@example.com,5353 Walnut St,Las Vegas,USA,2023-11-05,Silver,Scarlett Simmons,953535425.0
+58,ogonzales@example.com,5555 Elm St,San Francisco,USA,2023-01-15,Platinum,Oliver Gonzales,955555625.0
+59,elong@example.com,5656 Pine St,Denver,USA,2023-10-20,Gold,Emily Long,956565725.0
+60,nmiller@example.com,5767 Maple St,Miami,USA,2023-04-05,Silver,Noah Miller,957575825.0
+61,lwilliams@example.com,5868 Cedar St,Seattle,USA,2023-12-10,Bronze,Liam Williams,958686926.0
+62,pthomas@example.com,5969 Walnut St,Portland,USA,2023-09-15,Platinum,Penelope Thomas,959797027.0
+63,jmorris@example.com,6060 Oak St,Dallas,USA,2023-06-30,Gold,Jackson Morris,960808128.0
+64,awood@example.com,6161 Elm St,Chicago,USA,2023-05-25,Silver,Aubrey Wood,961919229.0
+65,cbrown@example.com,6262 Pine St,Houston,USA,2023-07-10,Bronze,Chloe Brown,962030330.0
+66,mharris@example.com,6363 Maple St,New York,USA,2023-12-20,Platinum,Mason Harris,963141431.0
+67,nwilson@example.com,6464 Cedar St,Boston,USA,2023-08-15,Gold,Naomi Wilson,964252532.0
+68,eperez@example.com,6565 Walnut St,Phoenix,USA,2023-05-05,Silver,Eli Perez,965363633.0
+69,ladams@example.com,6666 Oak St,Atlanta,USA,2023-09-10,Bronze,Lila Adams,966474734.0
+70,msanders@example.com,6767 Elm St,Philadelphia,USA,2023-12-25,Platinum,Mila Sanders,967585835.0
+71,kprice@example.com,6868 Pine St,Detroit,USA,2023-04-30,Gold,Kyle Price,968696936.0
+72,broberts@example.com,6969 Maple St,Orlando,USA,2023-11-15,Silver,Brandon Roberts,969808037.0
+73,dgreen@example.com,7070 Cedar St,San Antonio,USA,2023-06-05,Bronze,Daniel Green,970919138.0
+74,mross@example.com,7171 Walnut St,San Francisco,USA,2023-01-10,Platinum,Matthew Ross,971030239.0
+75,kmurphy@example.com,7272 Oak St,Denver,USA,2023-07-25,Gold,Kayla Murphy,972141340.0
+76,jparker@example.com,7373 Elm St,Miami,USA,2023-02-20,Silver,Jackson Parker,973252441.0
+77,lkeller@example.com,7474 Pine St,Seattle,USA,2023-11-05,Bronze,Liam Keller,974363542.0
+78,pcarter@example.com,7575 Maple St,Portland,USA,2023-08-10,Platinum,Peyton Carter,975474643.0
+79,jharris@example.com,7676 Cedar St,Dallas,USA,2023-09-15,Gold,James Harris,976585744.0
+80,kgreen@example.com,7777 Walnut St,Chicago,USA,2023-12-30,Silver,Kayla Green,977696845.0
+81,tkelly@example.com,7878 Oak St,Houston,USA,2023-05-05,Bronze,Tyler Kelly,978807946.0
+82,dmorris@example.com,7979 Elm St,New York,USA,2023-10-20,Platinum,Dylan Morris,979919057.0
+83,ebrooks@example.com,8080 Pine St,Boston,USA,2023-06-15,Gold,Eliza Brooks,980030168.0
+84,chughes@example.com,8181 Maple St,Phoenix,USA,2023-03-25,Silver,Charles Hughes,981141279.0
+85,brichards@example.com,8282 Cedar St,Atlanta,USA,2023-07-10,Bronze,Brianna Richards,982252390.0
+86,lbaker@example.com,8383 Walnut St,Philadelphia,USA,2023-12-05,Platinum,Lucas Baker,983363501.0
+87,jallen@example.com,8484 Oak St,Detroit,USA,2023-11-20,Gold,Jenna Allen,984474612.0
+88,kharris@example.com,8585 Elm St,Orlando,USA,2023-05-30,Silver,Kaitlyn Harris,985585723.0
+89,nprice@example.com,8686 Pine St,San Antonio,USA,2023-09-10,Bronze,Nolan Price,986696834.0
+90,olove@example.com,8787 Maple St,San Francisco,USA,2023-03-15,Platinum,Olivia Love,987807945.0
+91,brobinson@example.com,8888 Cedar St,Denver,USA,2023-07-20,Gold,Benjamin Robinson,988919056.0
+92,amartinez@example.com,8989 Walnut St,Miami,USA,2023-01-05,Silver,Aiden Martinez,989030167.0
+93,lmoore@example.com,9090 Oak St,Seattle,USA,2023-08-30,Bronze,Layla Moore,990141278.0
+94,dbennett@example.com,9191 Elm St,Portland,USA,2023-03-10,Platinum,David Bennett,991252389.0
+95,jlopez@example.com,9292 Pine St,Dallas,USA,2023-11-25,Gold,Jennifer Lopez,992363490.0
+96,rmorris@example.com,9393 Maple St,Chicago,USA,2023-06-20,Silver,Riley Morris,993474591.0
+97,egarcia@example.com,9494 Cedar St,Houston,USA,2023-05-05,Bronze,Evan Garcia,994585602.0
+98,jsanders@example.com,9595 Walnut St,New York,USA,2023-10-30,Platinum,Julia Sanders,995696713.0
+99,nmiller@example.com,9696 Oak St,Boston,USA,2023-12-15,Gold,Nora Miller,996807824.0
+100,mturner@example.com,9797 Elm St,Phoenix,USA,2023-04-10,Silver,Michael Turner,997918935.0
+101,amorris@example.com,9898 Pine St,Chicago,USA,2023-05-25,Platinum,Amy Morris,998029046.0
+102,cjames@example.com,9999 Maple St,Portland,USA,2023-06-10,Gold,Chris James,999140157.0
+103,lnelson@example.com,10010 Cedar St,Denver,USA,2023-08-20,Silver,Laura Nelson,1000250268.0
+104,apeterson@example.com,10101 Walnut St,San Francisco,USA,2023-10-05,Bronze,Adam Peterson,1011361379.0
+105,dgreen@example.com,10202 Oak St,San Antonio,USA,2023-11-30,Platinum,Danielle Green,1022472490.0
+106,krussell@example.com,10303 Elm St,Miami,USA,2023-12-15,Gold,Kevin Russell,1033583601.0
+107,sroberts@example.com,10404 Pine St,Seattle,USA,2024-01-10,Silver,Samantha Roberts,1044694712.0
+108,msmith@example.com,10505 Maple St,Dallas,USA,2024-02-25,Bronze,Matthew Smith,1055805823.0
+109,kgonzalez@example.com,10606 Cedar St,Orlando,USA,2024-04-05,Platinum,Katherine Gonzalez,1066916934.0
+110,jlewis@example.com,10707 Walnut St,San Francisco,USA,2024-06-20,Gold,James Lewis,1078028045.0
+111,blong@example.com,10808 Oak St,Detroit,USA,2024-07-30,Silver,Brandon Long,1089139156.0
+112,tgibson@example.com,10909 Elm St,Philadelphia,USA,2024-09-10,Bronze,Taylor Gibson,1100250267.0
+113,charris@example.com,11010 Pine St,Chicago,USA,2024-10-15,Platinum,Claire Harris,1111361378.0
+114,jmiller@example.com,11111 Maple St,Boston,USA,2024-12-20,Gold,Jacob Miller,1122472489.0
+115,amurphy@example.com,11212 Cedar St,Phoenix,USA,2025-01-05,Silver,Anna Murphy,1133583590.0
+116,brussell@example.com,11313 Walnut St,Atlanta,USA,2025-03-30,Bronze,Brenda Russell,1144694701.0
+117,eroberts@example.com,11414 Oak St,San Antonio,USA,2025-05-10,Platinum,Ethan Roberts,1155805812.0
+118,fjones@example.com,11515 Elm St,San Francisco,USA,2025-07-20,Gold,Fiona Jones,1166916923.0
+119,pauld@example.com,11616 Pine St,Denver,USA,2025-08-30,Silver,Paul Anderson,1178028034.0
+120,olucas@example.com,11717 Maple St,Miami,USA,2025-10-10,Bronze,Olivia Lucas,1189139145.0
+121,rmartinez@example.com,11818 Cedar St,Seattle,USA,2025-11-25,Platinum,Robert Martinez,1200250256.0
+122,ncarter@example.com,11919 Walnut St,Dallas,USA,2026-01-05,Gold,Natalie Carter,1211361367.0
+123,jallen@example.com,12020 Oak St,Orlando,USA,2026-03-20,Silver,Jack Allen,1222472478.0
+124,emartin@example.com,12121 Elm St,San Francisco,USA,2026-05-30,Bronze,Emily Martin,1233583589.0
+125,arobinson@example.com,12222 Pine St,Chicago,USA,2026-07-10,Platinum,Aaron Robinson,1244694690.0
+126,krussell@example.com,12323 Maple St,Boston,USA,2026-09-15,Gold,Kimberly Russell,1255805801.0
+127,lthomas@example.com,12424 Cedar St,Phoenix,USA,2026-10-30,Silver,Liam Thomas,1266916912.0
+128,tyler@example.com,12525 Walnut St,Atlanta,USA,2026-12-05,Bronze,Tyler Johnson,1278028023.0
+129,jacob@example.com,12626 Oak St,San Antonio,USA,2027-01-20,Platinum,Jacob Wilson,1289139134.0
+130,kelly@example.com,12727 Elm St,San Francisco,USA,2027-03-10,Gold,Kelly Anderson,1290250245.0
+131,alex@example.com,12828 Pine St,Denver,USA,2027-04-25,Silver,Alex Clark,1301361356.0
+132,brooke@example.com,12929 Maple St,Miami,USA,2027-06-05,Bronze,Brooke Adams,1312472467.0
+133,drew@example.com,13030 Cedar St,Seattle,USA,2027-08-20,Platinum,Drew Baker,1323583578.0
+134,jasmine@example.com,13131 Walnut St,Dallas,USA,2027-09-30,Gold,Jasmine Lewis,1334694689.0
+135,travis@example.com,13232 Oak St,Orlando,USA,2027-11-05,Silver,Travis Moore,1345805790.0
+136,quinn@example.com,13333 Elm St,San Francisco,USA,2028-01-20,Bronze,Quinn Kelly,1356916901.0
+137,casey@example.com,13434 Pine St,Chicago,USA,2028-03-10,Platinum,Casey Martinez,1368028012.0
+138,jamie@example.com,13535 Maple St,Boston,USA,2028-04-25,Gold,Jamie Wilson,1379139123.0
+139,riley@example.com,13636 Cedar St,Phoenix,USA,2028-05-30,Silver,Riley Brown,1380250234.0
+140,harper@example.com,13737 Walnut St,Atlanta,USA,2028-07-10,Bronze,Harper Scott,1391361345.0
+141,payton@example.com,13838 Oak St,San Antonio,USA,2028-08-20,Platinum,Payton Green,1402472456.0
+142,jordan@example.com,13939 Elm St,San Francisco,USA,2028-10-05,Gold,Jordan Davis,1413583567.0
+143,alexis@example.com,14040 Pine St,Denver,USA,2028-12-20,Silver,Alexis Harris,1424694678.0
+144,reese@example.com,14141 Maple St,Miami,USA,2029-01-30,Bronze,Reese Young,1435805789.0
+145,charlie@example.com,14242 Cedar St,Seattle,USA,2029-03-15,Platinum,Charlie Brown,1446916890.0
+146,morgan@example.com,14343 Walnut St,Dallas,USA,2029-04-20,Gold,Morgan Johnson,1458028001.0
+147,ellie@example.com,14444 Oak St,Orlando,USA,2029-06-05,Silver,Ellie Lee,1469139112.0
+148,nolan@example.com,14545 Elm St,San Francisco,USA,2029-07-30,Bronze,Nolan Adams,1470250223.0
+149,blake@example.com,14646 Pine St,Chicago,USA,2029-09-10,Platinum,Blake Clark,1481361334.0
+150,mackenzie@example.com,14747 Maple St,Boston,USA,2029-10-25,Gold,Mackenzie Hall,1492472445.0
+151,kayla@example.com,14848 Cedar St,Phoenix,USA,2029-11-10,Silver,Kayla King,1503583556.0
+152,wyatt@example.com,14949 Walnut St,Atlanta,USA,2029-12-25,Bronze,Wyatt Wright,1514694667.0
+153,luke@example.com,15050 Oak St,San Antonio,USA,2030-01-05,Platinum,Luke Robinson,1525805778.0
+154,zoey@example.com,15151 Elm St,San Francisco,USA,2030-03-20,Gold,Zoey Walker,1536916889.0
+155,evan@example.com,15252 Pine St,Denver,USA,2030-04-30,Silver,Evan Lee,1548027990.0
+156,aiden@example.com,15353 Maple St,Miami,USA,2030-06-10,Bronze,Aiden Carter,1559139101.0
+157,olivia@example.com,15454 Cedar St,Seattle,USA,2030-07-20,Platinum,Olivia Miller,1560250212.0
+158,jack@example.com,15555 Walnut St,Dallas,USA,2030-09-05,Gold,Jack Allen,1571361323.0
+159,harper@example.com,15656 Oak St,Orlando,USA,2030-10-25,Silver,Harper Garcia,1582472434.0
+160,emma@example.com,15757 Elm St,San Francisco,USA,2030-12-10,Bronze,Emma Martinez,1593583545.0
+161,jacob@example.com,15858 Pine St,Chicago,USA,2031-01-20,Platinum,Jacob Turner,1604694656.0
+163,sophia@example.com,16060 Cedar St,Phoenix,USA,2031-04-15,Silver,Sophia White,1626916878.0
+164,noah@example.com,16161 Walnut St,Atlanta,USA,2031-05-25,Bronze,Noah Thompson,1638027979.0
+165,amelia@example.com,16262 Oak St,San Antonio,USA,2031-07-05,Platinum,Amelia Davis,1649139090.0
+166,liam@example.com,16363 Elm St,San Francisco,USA,2031-08-20,Gold,Liam Moore,1650250201.0
+167,ella@example.com,16464 Pine St,Denver,USA,2031-09-30,Silver,Ella Miller,1661361312.0
+168,mason@example.com,16565 Maple St,Miami,USA,2031-11-10,Bronze,Mason Johnson,1672472423.0
+169,chloe@example.com,16666 Cedar St,Seattle,USA,2031-12-20,Platinum,Chloe Lee,1683583534.0
+170,benjamin@example.com,16767 Walnut St,Dallas,USA,2032-01-05,Gold,Benjamin Harris,1694694645.0
+171,grace@example.com,16868 Oak St,Orlando,USA,2032-02-20,Silver,Grace Brown,1705805756.0
+172,logan@example.com,16969 Elm St,San Francisco,USA,2032-03-30,Bronze,Logan Williams,1716916867.0
+173,elijah@example.com,17070 Pine St,Chicago,USA,2032-05-10,Platinum,Elijah Johnson,1728027978.0
+174,charlotte@example.com,17171 Maple St,Boston,USA,2032-06-25,Gold,Charlotte Davis,1739139089.0
+175,james@example.com,17272 Cedar St,Phoenix,USA,2032-08-05,Silver,James Moore,1750250190.0
+176,ethan@example.com,17373 Walnut St,Atlanta,USA,2032-09-20,Bronze,Ethan Wilson,1761361301.0
+177,harper@example.com,17474 Oak St,San Antonio,USA,2032-10-30,Platinum,Harper Lee,1772472412.0
+178,isabella@example.com,17575 Elm St,San Francisco,USA,2032-12-10,Gold,Isabella Taylor,1783583523.0
+179,alexander@example.com,17676 Pine St,Denver,USA,2033-01-20,Silver,Alexander Anderson,1794694634.0
+181,daniel@example.com,17878 Cedar St,Seattle,USA,2033-04-15,Platinum,Daniel Smith,1816916856.0
+182,emily@example.com,17979 Walnut St,Dallas,USA,2033-05-20,Gold,Emily Jones,1828027967.0
+183,william@example.com,18080 Oak St,Orlando,USA,2033-07-05,Silver,William Brown,1839139078.0
+184,olivia@example.com,18181 Elm St,San Francisco,USA,2033-08-30,Bronze,Olivia White,1840250189.0
+185,michael@example.com,18282 Pine St,Chicago,USA,2033-10-10,Platinum,Michael Davis,1851361290.0
+186,sophia@example.com,18383 Maple St,Boston,USA,2033-11-25,Gold,Sophia Clark,1862472401.0
+187,james@example.com,18484 Cedar St,Phoenix,USA,2034-01-05,Silver,James Taylor,1873583512.0
+188,charlotte@example.com,18585 Walnut St,Atlanta,USA,2034-02-20,Bronze,Charlotte Adams,1884694623.0
+189,amelia@example.com,18686 Oak St,San Antonio,USA,2034-03-30,Platinum,Amelia Nelson,1895805734.0
+190,liam@example.com,18787 Elm St,San Francisco,USA,2034-05-10,Gold,Liam Carter,1906916845.0
+191,emma@example.com,18888 Pine St,Denver,USA,2034-06-20,Silver,Emma Evans,1918027946.0
+192,noah@example.com,18989 Maple St,Miami,USA,2034-07-30,Bronze,Noah Phillips,1929139057.0
+193,ava@example.com,19090 Cedar St,Seattle,USA,2034-09-05,Platinum,Ava Brown,1930250168.0
+194,elijah@example.com,19191 Walnut St,Dallas,USA,2034-10-20,Gold,Elijah Wilson,1941361279.0
+195,mia@example.com,19292 Oak St,Orlando,USA,2034-11-30,Silver,Mia Lee,1952472390.0
+196,lucas@example.com,19393 Elm St,San Francisco,USA,2035-01-10,Bronze,Lucas Harris,1963583501.0
+197,amelia@example.com,19494 Pine St,Chicago,USA,2035-02-25,Platinum,Amelia Young,1974694612.0
+198,jackson@example.com,19595 Maple St,Boston,USA,2035-04-05,Gold,Jackson Brown,1985805723.0
+199,harper@example.com,19696 Cedar St,Phoenix,USA,2035-05-20,Silver,Harper Smith,1996916834.0
+200,oliver@example.com,19797 Walnut St,Atlanta,USA,2035-06-30,Bronze,Oliver Davis,2008027935.0

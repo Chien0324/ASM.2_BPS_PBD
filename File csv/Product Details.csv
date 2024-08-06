@@ -1,0 +1,51 @@
+ProductDetails_ID,Product Name,Description,Price,Manufacturer,Production Date,Expiry Date,Weight,ProductGroup_ID,Dimensions
+1,Smartphone X,High-end smartphone with advanced features,900,ABC Electronics,15/01/2023,14/01/2025,0.2,1,20
+2,Laptop Y,Powerful laptop for professional use,1200,XYZ Computers,20/02/2023,19/02/2025,1.5,2,150
+3,Smartwatch Z,Fitness tracking smartwatch with heart rate monitor,300,ABC Electronics,10/03/2023,09/03/2025,0.1,3,10
+4,Wireless Earbuds,Bluetooth earbuds with noise cancellation,150,DEF Audio,05/04/2023,04/04/2025,0.05,4,50
+5,Portable Speaker,Waterproof speaker with long battery life,200,GHI Audio,12/05/2023,11/05/2025,0.3,4,30
+6,Tablet A,10-inch tablet with high-resolution display,500,JKL Electronics,08/06/2023,07/06/2025,0.7,1,70
+7,Action Camera,4K action camera for outdoor adventures,250,MNO Cameras,14/07/2023,13/07/2025,0.15,5,150
+8,Drone B,Quadcopter drone with HD camera,800,PQR Drones,21/08/2023,20/08/2025,1.2,5,120
+9,Wireless Mouse,Ergonomic mouse with adjustable DPI,50,STU Accessories,03/09/2023,02/09/2025,0.1,6,10
+10,Mechanical Keyboard,RGB mechanical keyboard with customizable keys,100,VWX Accessories,19/10/2023,18/10/2025,1,6,10
+11,Gaming Console,Next-gen gaming console with 4K graphics,400,XYZ Computers,25/11/2023,24/11/2025,2.5,7,250
+12,VR Headset,Virtual reality headset for immersive experiences,300,ABC Electronics,30/12/2023,29/12/2025,0.6,7,60
+13,Printer C,Wireless all-in-one printer for home and office,150,DEF Printers,08/01/2023,07/01/2025,5,8,50
+14,Smart TV,55-inch smart TV with built-in streaming apps,800,GHI Displays,14/02/2023,13/02/2025,15,9,150
+15,Wireless Router,Dual-band Wi-Fi router for fast internet,100,JKL Networking,20/03/2023,19/03/2025,0.5,10,50
+16,External Hard Drive,1TB external HDD for data storage,80,MNO Storage,25/04/2023,24/04/2025,0.2,10,20
+17,Smart Bulb,Wi-Fi enabled smart bulb with color changing,30,PQR Lighting,02/05/2023,01/05/2025,0.1,1,10
+18,Robot Vacuum,Smart vacuum cleaner with app control,200,STU Home Appliances,18/06/2023,17/06/2025,2,1,20
+19,Bluetooth Speaker,Portable speaker with Bluetooth connectivity,50,VWX Audio,24/07/2023,23/07/2025,0.4,4,40
+20,Power Bank,10000mAh power bank for charging on the go,40,XYZ Accessories,30/08/2023,29/08/2025,0.2,6,20
+21,Wireless Charger,Fast wireless charger for smartphones,30,ABC Accessories,05/09/2023,04/09/2025,0.1,6,10
+22,Gaming Mouse,High-precision gaming mouse with customizable buttons,60,DEF Accessories,11/10/2023,10/10/2025,0.2,6,20
+23,Graphics Card,NVIDIA GeForce RTX 3080 for gaming and content creation,700,GHI Components,17/11/2023,16/11/2025,1.5,2,150
+24,Soundbar,2.1 channel soundbar for home theater experience,150,JKL Audio,23/12/2023,22/12/2025,2.5,4,250
+25,Smart Thermostat,Wi-Fi enabled thermostat for smart homes,100,MNO Smart Home,01/01/2023,31/12/2025,0.3,3,30
+26,Wireless Security Camera,1080p wireless security camera for home surveillance,80,PQR Security,07/02/2023,06/02/2025,0.2,3,20
+27,Fitness Tracker,Waterproof fitness tracker with heart rate monitor,50,STU Wearables,15/03/2023,14/03/2025,0.05,4,50
+28,Bluetooth Headphones,Over-ear Bluetooth headphones with deep bass,70,VWX Audio,21/04/2023,20/04/2025,0.3,4,30
+29,Home Theater System,5.1 channel home theater system for immersive audio,300,XYZ Audio,27/05/2023,26/05/2025,10,4,100
+30,Smart Doorbell,Wi-Fi video doorbell with two-way audio,120,ABC Security,02/06/2023,01/06/2025,0.4,3,40
+31,Wireless Keyboard,Wireless keyboard with quiet keys for comfortable typing,50,DEF Accessories,08/07/2023,07/07/2025,0.5,6,50
+32,Digital Camera,20MP digital camera with 5x optical zoom,200,GHI Cameras,14/08/2023,13/08/2025,0.6,5,60
+33,Electric Toothbrush,Electric toothbrush with multiple brushing modes,40,JKL Personal Care,20/09/2023,19/09/2025,0.3,5,30
+34,Coffee Maker,Programmable coffee maker with 12-cup capacity,80,MNO Home Appliances,26/10/2023,25/10/2025,1,5,10
+35,Bluetooth Car Kit,Bluetooth car kit for hands-free calling in vehicles,30,PQR Accessories,01/11/2023,31/10/2025,0.1,6,10
+36,Wireless Gaming Headset,Wireless gaming headset with surround sound,100,STU Audio,07/12/2023,06/12/2025,0.4,4,40
+37,Smart Scale,Digital smart scale for precise weight measurement,60,VWX Health,13/01/2023,12/01/2025,1,7,10
+38,Wireless Barcode Scanner,Wireless barcode scanner for retail and inventory,80,XYZ Accessories,19/02/2023,18/02/2025,0.2,8,20
+39,Bluetooth FM Transmitter,Bluetooth FM transmitter for car audio,40,ABC Accessories,26/03/2023,25/03/2025,0.1,6,10
+40,Portable Air Conditioner,Portable air conditioner for cooling small spaces,300,DEF Home Appliances,01/04/2023,31/03/2025,15,5,150
+41,Wireless Security Alarm,Wireless security alarm system with motion detection,120,GHI Security,07/05/2023,06/05/2025,0.3,3,30
+42,Smart Pet Feeder,Automatic pet feeder with scheduling and portion control,80,JKL Pet Supplies,13/06/2023,12/06/2025,1.5,9,150
+43,Electric Scooter,Foldable electric scooter for urban commuting,400,MNO Outdoor Gear,19/07/2023,18/07/2025,10,10,100
+44,Smart Lock,Keyless smart lock with smartphone control,150,PQR Smart Home,25/08/2023,24/08/2025,0.6,3,60
+45,Wireless Charging Pad,Fast wireless charging pad for smartphones,30,STU Accessories,01/09/2023,31/08/2025,0.1,6,10
+46,Smart Mirror,Interactive smart mirror with touchscreen display,200,VWX Home Decor,07/10/2023,06/10/2025,5,2,50
+47,Bluetooth Beanie,Wireless Bluetooth beanie with built-in headphones,40,XYZ Wearables,13/11/2023,12/11/2025,0.2,2,20
+48,Digital Photo Frame,10-inch digital photo frame with remote control,50,ABC Electronics,19/12/2023,18/12/2025,0.5,3,50
+49,Wireless Presenter,Wireless presenter remote for presentations,20,DEF Accessories,25/01/2023,24/01/2025,0.1,4,10
+50,Smart Humidifier,Smart humidifier with adjustable mist settings,70,GHI Home Appliances,01/02/2023,31/01/2025,2,5,20

@@ -1,0 +1,101 @@
+Trend_ID,Trend Name,Trend Description,Start Date,End Date,Impact Level,Trend Category,Created By,Created Date,Last Updated Date,ProductGroup_ID
+1,Smart Home Automation,Rise in adoption of smart home automation systems,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,2
+2,Remote Work Tools,Increased demand for remote work tools and software,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,3
+3,Health and Wellness,Focus on health and wellness products and services,01/01/2023,31/12/2024,Medium,Lifestyle,Admin,01/01/2023,12/06/2024,4
+4,Green Living,Surge in interest towards eco-friendly products and sustainability,01/01/2023,31/12/2024,Medium,Lifestyle,Admin,01/01/2023,12/06/2024,7
+5,Remote Learning,Transition to remote learning platforms and educational technology,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,4
+6,Online Shopping Boom,Continued growth of online shopping and e-commerce,01/01/2023,31/12/2024,High,Retail,Admin,01/01/2023,12/06/2024,6
+7,Digital Entertainment,Shift towards digital entertainment platforms and streaming services,01/01/2023,31/12/2024,High,Entertainment,Admin,01/01/2023,12/06/2024,7
+8,Virtual Events,Increase in virtual events and conferences,01/01/2023,31/12/2024,High,Events,Admin,01/01/2023,12/06/2024,5
+9,Remote Healthcare,Growth of telemedicine and remote healthcare services,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,4
+10,Contactless Payments,Adoption of contactless payment methods and digital wallets,01/01/2023,31/12/2024,High,Finance,Admin,01/01/2023,12/06/2024,5
+11,Smart Cities,Development of smart city initiatives and infrastructure,01/01/2023,31/12/2024,Medium,Technology,Admin,01/01/2023,12/06/2024,6
+12,Artificial Intelligence,Growing use of artificial intelligence and machine learning,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,7
+13,Augmented Reality,Expansion of augmented reality applications,01/01/2023,31/12/2024,Medium,Technology,Admin,01/01/2023,12/06/2024,8
+14,Remote Collaboration,Increase in remote collaboration tools and platforms,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,9
+15,Blockchain Technology,Adoption of blockchain technology in various industries,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,2
+16,Subscription Economy,Rise of subscription-based business models,01/01/2023,31/12/2024,High,Economy,Admin,01/01/2023,12/06/2024,4
+17,Data Privacy Concerns,Heightened focus on data privacy and security,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,4
+18,Remote Fitness,Shift towards remote fitness and workout programs,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,7
+19,5G Technology,Expansion of 5G networks and capabilities,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,4
+20,Electric Vehicles,Growth of electric vehicle adoption and infrastructure,01/01/2023,31/12/2024,Medium,Technology,Admin,01/01/2023,12/06/2024,3
+21,Remote Banking,Increase in online and mobile banking usage,01/01/2023,31/12/2024,High,Finance,Admin,01/01/2023,12/06/2024,3
+22,Personalized Marketing,Trend towards personalized marketing strategies,01/01/2023,31/12/2024,High,Marketing,Admin,01/01/2023,12/06/2024,2
+23,Eco-Friendly Packaging,Focus on eco-friendly packaging solutions,01/01/2023,31/12/2024,Medium,Environment,Admin,01/01/2023,12/06/2024,6
+24,Remote Security,Surge in demand for remote security solutions,01/01/2023,31/12/2024,High,Security,Admin,01/01/2023,12/06/2024,9
+25,Remote Gaming,Growth of remote gaming platforms and esports,01/01/2023,31/12/2024,High,Gaming,Admin,01/01/2023,12/06/2024,8
+26,Cloud Computing,Expansion of cloud computing services and solutions,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,10
+27,Remote Mental Health,Increased focus on remote mental health services,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,1
+28,Digital Nomad Lifestyle,Rise of digital nomad lifestyle and remote work opportunities,01/01/2023,31/12/2024,Medium,Lifestyle,Admin,01/01/2023,12/06/2024,4
+29,Sustainable Fashion,Growth of sustainable and eco-friendly fashion brands,01/01/2023,31/12/2024,Medium,Fashion,Admin,01/01/2023,12/06/2024,2
+30,Remote Recruitment,Shift towards remote recruitment and virtual hiring processes,01/01/2023,31/12/2024,High,HR,Admin,01/01/2023,12/06/2024,5
+31,Remote Consultation,Growth of remote consultation services across various industries,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,6
+32,Virtual Reality Adoption,Rise in adoption of virtual reality technology,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,7
+33,Artisanal Products,Increase in demand for artisanal and handmade products,01/01/2023,31/12/2024,Medium,Retail,Admin,01/01/2023,12/06/2024,4
+34,Online Education Platforms,Growth of online education platforms and courses,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,9
+35,Home Fitness Equipment,Surge in sales of home fitness equipment and gear,01/01/2023,31/12/2024,High,Fitness,Admin,01/01/2023,12/06/2024,10
+36,Digital Currency,Adoption of digital currencies and cryptocurrencies,01/01/2023,31/12/2024,High,Finance,Admin,01/01/2023,12/06/2024,4
+37,Plant-Based Diets,Rise in popularity of plant-based diets and veganism,01/01/2023,31/12/2024,Medium,Health,Admin,01/01/2023,12/06/2024,8
+38,Remote Legal Services,Increase in remote legal consultation and services,01/01/2023,31/12/2024,High,Legal,Admin,01/01/2023,12/06/2024,3
+39,Social Media Influencers,Growth of social media influencers and influencer marketing,01/01/2023,31/12/2024,High,Marketing,Admin,01/01/2023,12/06/2024,6
+40,Subscription Boxes,Rise of subscription box services across various industries,01/01/2023,31/12/2024,High,Retail,Admin,01/01/2023,12/06/2024,7
+41,Health Tech Innovations,Expansion of health tech innovations and digital health tools,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,4
+42,Remote Project Management,Growth in remote project management tools and methodologies,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,5
+43,Online Art Sales,Increase in online art sales and digital art platforms,01/01/2023,31/12/2024,Medium,Art,Admin,01/01/2023,12/06/2024,9
+44,Remote Technical Support,Rise in remote technical support services,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,7
+45,Smart Wearables,Increased adoption of smart wearables and health monitoring devices,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,6
+46,Telehealth Services,Growth in telehealth services and virtual medical consultations,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,4
+47,Online Fitness Classes,Surge in online fitness classes and virtual workouts,01/01/2023,31/12/2024,High,Fitness,Admin,01/01/2023,12/06/2024,7
+48,Digital Transformation,Rise in digital transformation initiatives across industries,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,5
+49,Home Office Equipment,Increase in demand for home office equipment and ergonomic solutions,01/01/2023,31/12/2024,High,Office,Admin,01/01/2023,12/06/2024,6
+50,Virtual Reality Fitness,Expansion of virtual reality fitness experiences and games,01/01/2023,31/12/2024,Medium,Fitness,Admin,01/01/2023,12/06/2024,8
+51,Remote Event Planning,Increase in remote event planning services and virtual event management,01/01/2023,31/12/2024,High,Events,Admin,01/01/2023,12/06/2024,7
+52,Online Mental Health Support,Growth of online mental health support platforms and resources,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,6
+53,Smart Fitness Devices,Adoption of smart fitness devices and tracking technologies,01/01/2023,31/12/2024,High,Fitness,Admin,01/01/2023,12/06/2024,5
+54,Digital Health Records,Rise in use of digital health records and electronic health systems,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,7
+55,Remote Language Learning,Increase in remote language learning platforms and tools,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,5
+56,Cloud Storage Solutions,Expansion of cloud storage solutions and data management,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,6
+57,Online Grocery Shopping,Growth in online grocery shopping and delivery services,01/01/2023,31/12/2024,High,Retail,Admin,01/01/2023,12/06/2024,8
+58,Digital Payment Solutions,Rise in digital payment solutions and mobile payment systems,01/01/2023,31/12/2024,High,Finance,Admin,01/01/2023,12/06/2024,7
+59,Remote Collaboration Software,Increase in remote collaboration software and productivity tools,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,8
+60,Online Learning Resources,Growth of online learning resources and educational platforms,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,6
+61,Smart Wearable Tech,Expansion of smart wearable technology and health tracking devices,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,7
+62,Remote Team Building,Increase in remote team building activities and virtual team engagement,01/01/2023,31/12/2024,High,HR,Admin,01/01/2023,12/06/2024,5
+63,Virtual Reality Training,Adoption of virtual reality training solutions and immersive learning,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,6
+64,Online Health Coaching,Growth in online health coaching and digital wellness programs,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,7
+65,Remote Technical Training,Expansion of remote technical training programs and certification courses,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,6
+66,Smart Energy Solutions,Increase in adoption of smart energy solutions and efficiency technologies,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,8
+67,Remote Learning Tools,Rise in demand for remote learning tools and platforms,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,5
+68,AI in Healthcare,Growth of AI applications in healthcare and medical diagnostics,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,7
+69,Remote Support Services,Expansion of remote support services and virtual assistance,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,8
+70,Virtual Learning Environments,Increase in virtual learning environments and educational technologies,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,9
+71,Smart Home Security,Adoption of smart home security systems and IoT-connected cameras,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,6
+72,Remote Healthcare Monitoring,Rise in remote healthcare monitoring technologies and devices,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,7
+73,Digital Wellness,Growth in digital wellness apps and mental health technologies,01/01/2023,31/12/2024,Medium,Healthcare,Admin,01/01/2023,12/06/2024,5
+74,Remote Project Collaboration,Increase in remote project collaboration tools and platforms,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,6
+75,Smart Personal Assistants,Expansion of smart personal assistants and voice-activated devices,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,7
+76,Online Learning Platforms,Growth in online learning platforms and virtual classrooms,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,6
+77,Remote Work Productivity,Increase in tools and strategies for remote work productivity,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,7
+78,AI in Marketing,Adoption of AI tools for marketing automation and data analysis,01/01/2023,31/12/2024,High,Marketing,Admin,01/01/2023,12/06/2024,5
+79,Smart Health Devices,Growth of smart health devices and personal health monitoring,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,7
+80,Remote Financial Services,Increase in remote financial services and digital banking,01/01/2023,31/12/2024,High,Finance,Admin,01/01/2023,12/06/2024,8
+81,Online Consultation Platforms,Growth of online consultation platforms for various services,01/01/2023,31/12/2024,High,Consulting,Admin,01/01/2023,12/06/2024,6
+82,Remote Innovation Labs,Expansion of remote innovation labs and virtual R&D environments,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,5
+83,Digital Workspaces,Rise in digital workspaces and virtual office solutions,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,7
+84,Remote Health Monitoring,Increase in remote health monitoring tools and applications,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,6
+85,Smart Cities Technology,Growth in smart city technology and infrastructure solutions,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,8
+86,Online Fitness Platforms,Expansion of online fitness platforms and digital workout programs,01/01/2023,31/12/2024,High,Fitness,Admin,01/01/2023,12/06/2024,7
+87,Remote Education Tools,Growth of remote education tools and learning technologies,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,8
+88,AI for Personalization,Use of AI for personalization in various consumer applications,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,9
+89,Digital Transformation in Healthcare,Growth of digital transformation initiatives in healthcare,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,7
+90,Remote Innovation Technologies,Increase in remote innovation technologies and virtual labs,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,8
+91,Smart Home Devices,Expansion of smart home devices and connected home technologies,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,6
+92,Online Support Systems,Increase in online support systems and remote assistance tools,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,7
+93,Remote Learning Solutions,Growth of remote learning solutions and educational technologies,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,6
+94,AI-Driven Health Solutions,Increase in AI-driven solutions for health and wellness,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,7
+95,Virtual Collaboration Tools,Rise in virtual collaboration tools and remote work solutions,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,5
+96,Smart Home Integration,Expansion of smart home integration and connected living,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,8
+97,Remote Project Management Tools,Increase in remote project management tools and software,01/01/2023,31/12/2024,High,Technology,Admin,01/01/2023,12/06/2024,9
+98,AI-Powered Marketing Solutions,Growth of AI-powered solutions in marketing and advertising,01/01/2023,31/12/2024,High,Marketing,Admin,01/01/2023,12/06/2024,6
+99,Digital Education Tools,Rise in digital tools for education and e-learning platforms,01/01/2023,31/12/2024,High,Education,Admin,01/01/2023,12/06/2024,8
+100,Remote Health Services,Increase in remote health services and digital health management,01/01/2023,31/12/2024,High,Healthcare,Admin,01/01/2023,12/06/2024,9

@@ -1,0 +1,11 @@
+ProductGroup_ID,Product Group Name,Description,Image URL,Created Date,Last Updated Date,Active,Discount Percentage,Tax Rate
+1,Electronics,Main category for electronic products,https://example.com/electronics.png,01/01/2023,12/06/2024,True,0.3,0.3
+2,Computers,Computers and related accessories,https://example.com/computers.png,01/01/2023,12/06/2024,True,0.3,0.3
+3,Mobile Devices,Smartphones, tablets, and accessories,https://example.com/mobile.png,01/01/2023,12/06/2024,True,0.3,0.3
+4,Audio,Audio equipment and accessories,https://example.com/audio.png,01/01/2023,12/06/2024,True,0.3,0.3
+5,Cameras,Cameras and photography equipment,https://example.com/cameras.png,01/01/2023,12/06/2024,True,0.3,0.3
+6,Accessories,Accessories for electronic devices,https://example.com/accessories.png,01/01/2023,12/06/2024,True,0.3,0.3
+7,Home Appliances,Main category for home appliances,https://example.com/appliances.png,01/01/2023,12/06/2024,True,0.3,0.3
+8,Kitchen Appliances,Kitchen appliances and gadgets,https://example.com/kitchen.png,01/01/2023,12/06/2024,True,0.3,0.3
+9,Personal Care,Personal care and grooming products,https://example.com/personalcare.png,01/01/2023,12/06/2024,True,0.3,0.3
+10,Smart Home,Smart home devices and automation,https://example.com/smarthome.png,01/01/2023,12/06/2024,True,0.3,0.3
